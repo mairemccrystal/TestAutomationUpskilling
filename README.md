@@ -1,4 +1,4 @@
-# TestAutomationUpskilling
+# Test Automation Upskilling
 Various work on upskilling my knowledge with test automation 
 
 ## Technologies I have used and have experience with: 
@@ -24,7 +24,6 @@ Experience with (varying levels of competency)
 - Python / C# / C++ / Java / Javascript 
 
 
-
 # Courses Completed
 
 ## Test Automation University Courses Completed
@@ -37,3 +36,11 @@ Test Instructor: Mark Thompson
 
 Test Instructor: Alan Richardson
 * Automating in the Browser Using Javascript
+
+### Useful Tools and Helpers
+- Data Fakers 
+- Broken Link Checker
+- ChroPath 
+- TruePath
+- SelectorsHub
+- Grammar and Spellchecker
