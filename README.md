@@ -17,7 +17,7 @@ Experience with (varying levels of competency)
 - Cross Browser Testing 
 - IE /FireFox / Chrome
 
-### Other Related (see other repos for utilisation) 
+### Other Related (see other repos for utilisation)
 - Kubernetes 
 - Docker 
 - AWS, ADO, GCP
@@ -40,6 +40,7 @@ Test Instructor: Alan Richardson
 * Automating in the Browser Using Javascript
 
 ### Useful Tools and Helpers
+- SpecFlow
 - Data Fakers 
 - Broken Link Checker
 - ChroPath 
