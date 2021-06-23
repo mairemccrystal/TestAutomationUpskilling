@@ -14,6 +14,8 @@ Experience with (varying levels of competency)
 - Protractor
 - Travis CI (utilised in Cloud Computing Module at QUB) 
 - Beautiful Soup / Web Scraping 
+- Cross Browser Testing 
+- IE /FireFox / Chrome
 
 ### Other Related (see other repos for utilisation) 
 - Kubernetes 
