@@ -3,7 +3,7 @@ Various work on upskilling my knowledge with test automation
 
 ## Technologies I have used and have experience with: 
 
-### Test Automaion 
+### Test Automation
 Experience with (varying levels of competency) 
 - Visual Regression 
 - Selenium 3 & 4 
