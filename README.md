@@ -1,6 +1,9 @@
 # TestAutomationUpskilling
 Various work on upskilling my knowledge with test automation 
 
+## Technologies I have used and have experience with: 
+
+### Test Automaion 
 Experience with (varying levels of competency) 
 - Visual Regression 
 - Selenium 3 & 4 
@@ -8,7 +11,18 @@ Experience with (varying levels of competency)
 - Selenium Grid for distributed tests
 - Selenium Grid + Docker
 - Azure Devops (ADO) integration 
-- - 
+- Protractor
+- Travis CI (utilised in Cloud Computing Module at QUB) 
+- Beautiful Soup / Web Scraping 
+
+### Other Related (see other repos for utilisation) 
+- Kubernetes 
+- Docker 
+- AWS, ADO, GCP
+- API manipulation 
+- Contour Detection and algorithmic image manipulation 
+- Python / C# / C++ / Java / Javascript 
+
 
 
 # Courses Completed
