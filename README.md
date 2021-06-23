@@ -3,7 +3,7 @@ Various work on upskilling my knowledge with test automation
 
 # Courses Completed
 
-## Test Automation University 
+## Test Automation University Courses Completed
 
 Test Instructor: Angie Jones
 - Setting a Foundation for Successful Test Automation 
