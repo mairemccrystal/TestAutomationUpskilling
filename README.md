@@ -1,6 +1,13 @@
 # TestAutomationUpskilling
 Various work on upskilling my knowledge with test automation 
 
+- Visual Regression 
+- Selenium 3 & 4 
+- Testcafe 
+- Selenium Grid for distributed tests
+- Selenium Grid + Docker
+
+
 # Courses Completed
 
 ## Test Automation University Courses Completed
