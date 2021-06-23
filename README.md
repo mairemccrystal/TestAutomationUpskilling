@@ -7,6 +7,8 @@ Experience with (varying levels of competency)
 - Testcafe 
 - Selenium Grid for distributed tests
 - Selenium Grid + Docker
+- Azure Devops (ADO) integration 
+- - 
 
 
 # Courses Completed
