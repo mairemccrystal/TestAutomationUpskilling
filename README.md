@@ -1,6 +1,7 @@
 # TestAutomationUpskilling
 Various work on upskilling my knowledge with test automation 
 
+Experience with (varying levels of competency) 
 - Visual Regression 
 - Selenium 3 & 4 
 - Testcafe 
