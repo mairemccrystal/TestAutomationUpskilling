@@ -12,6 +12,7 @@ Experience with (varying levels of competency)
 - Selenium Grid + Docker
 - Azure Devops (ADO) integration 
 - Protractor
+- In browser testing with Javascript (Chrome Dev Tools) 
 - Travis CI (utilised in Cloud Computing Module at QUB) 
 - Beautiful Soup / Web Scraping 
 - Cross Browser Testing 
