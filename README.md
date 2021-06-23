@@ -10,3 +10,6 @@ Test Instructor: Angie Jones
 
 Test Instructor: Mark Thompson
 * Introduction to Javascript
+
+Test Instructor: Alan Richardson
+* Automating in the Browser Using Javascript
