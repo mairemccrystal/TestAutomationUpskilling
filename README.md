@@ -40,6 +40,9 @@ Test Instructor: Mark Thompson
 Test Instructor: Alan Richardson
 * Automating in the Browser Using Javascript
 
+Test Instructor: Raja Rao DV
+* Modern Functional Test Automation Through Visual AI
+
 ### Useful Tools and Helpers
 - SpecFlow
 - Data Fakers 
