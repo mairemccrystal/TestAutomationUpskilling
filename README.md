@@ -53,6 +53,12 @@ Test Instructor: Raja Rao DV
 - Grammar and Spellchecker
 
 ### I want to learn more about (TODO) 
+- Infrastructure Testing 
+- "QAOPS"
+- API Testing 
+- Sauce Labs
+- Browserstack
+- Playwright
 - Appium / Mobile Testing 
 - Selendroid (Android but limited support) 
 - Robotium 
