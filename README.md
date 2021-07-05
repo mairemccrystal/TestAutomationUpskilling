@@ -62,4 +62,6 @@ Test Instructor: Raja Rao DV
 - Appium / Mobile Testing 
 - Selendroid (Android but limited support) 
 - Robotium 
+- Jest/React
+- Mountebank
 
