@@ -59,6 +59,9 @@ Test Instructor: Raja Rao DV
 - SelectorsHub
 - Grammar and Spellchecker
 
+## Currently Working On / Working Through
+- https://www.swtestacademy.com/appium-tutorial/ 
+
 ### I want to learn more about (TODO) 
 - Infrastructure Testing 
 - "QAOPS"
