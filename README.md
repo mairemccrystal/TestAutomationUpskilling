@@ -43,6 +43,13 @@ Test Instructor: Alan Richardson
 Test Instructor: Raja Rao DV
 * Modern Functional Test Automation Through Visual AI
 
+# Books Read
+
+- Specification by Example: How Successful Teams Deliver the Right Software - Gojko Adzic
+- Instant Cucumber BDD How-to - Wayne Ye 
+- BDD in Action, Behaviour Driven Development for the whole software lifecycle - John Ferguson Smart 
+- 97 Things Every Programmer Should Know
+
 ### Useful Tools and Helpers
 - SpecFlow
 - Data Fakers 
@@ -62,6 +69,5 @@ Test Instructor: Raja Rao DV
 - Appium / Mobile Testing 
 - Selendroid (Android but limited support) 
 - Robotium 
-- Jest/React
-- Mountebank
+- Jest
 
