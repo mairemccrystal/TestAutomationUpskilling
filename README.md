@@ -19,7 +19,7 @@ Experience with (varying levels of competency)
 - IE /FireFox / Chrome
 
 ### Other Related (see other repos for utilisation)
-- Kubernetes 
+- Kubernetes (briefly)
 - Docker 
 - AWS, ADO, GCP
 - API manipulation 
