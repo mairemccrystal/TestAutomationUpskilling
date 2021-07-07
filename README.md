@@ -74,3 +74,6 @@ Test Instructor: Raja Rao DV
 - Robotium 
 - Jest
 
+See also twitter for recent projects, interactions, #100DaysOfCode ++ 
+https://twitter.com/mairemccrystal2
+
