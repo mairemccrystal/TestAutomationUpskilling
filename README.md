@@ -49,6 +49,7 @@ Test Instructor: Raja Rao DV
 - Instant Cucumber BDD How-to - Wayne Ye 
 - BDD in Action, Behaviour Driven Development for the whole software lifecycle - John Ferguson Smart 
 - 97 Things Every Programmer Should Know
+- Hello World : How to be Human in the Age of the Machine - Hannah Fry
 
 ### Useful Tools and Helpers
 - SpecFlow
