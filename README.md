@@ -43,6 +43,11 @@ Test Instructor: Alan Richardson
 Test Instructor: Raja Rao DV
 * Modern Functional Test Automation Through Visual AI
 
+Test Instructor: Brendan Connolly (in Progress)
+* Introduction to nUnit 
+
+
+
 # Books Read
 
 - Specification by Example: How Successful Teams Deliver the Right Software - Gojko Adzic
