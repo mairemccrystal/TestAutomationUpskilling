@@ -1,4 +1,6 @@
+
 # Test Automation Upskilling
+
 Various work on upskilling my knowledge with test automation 
 
 ## Technologies I have used and have experience with: 
@@ -31,21 +33,14 @@ Experience with (varying levels of competency)
 
 ## Test Automation University Courses Completed
 
-Test Instructor: Angie Jones
-- Setting a Foundation for Successful Test Automation 
 
-Test Instructor: Mark Thompson
-* Introduction to Javascript
-
-Test Instructor: Alan Richardson
-* Automating in the Browser Using Javascript
-
-Test Instructor: Raja Rao DV
-* Modern Functional Test Automation Through Visual AI
-
-Test Instructor: Brendan Connolly (in Progress)
-* Introduction to nUnit 
-
+| Test Instructor | Course Name  |
+|--|--|
+| Angie Jones  | Setting a Foundation for Successful Test Automation  |
+| Mark Thompson | Introduction to Javascript |
+| Alan Richardson | Automating in the Browser Using Javascript |
+| Raja Rao DV | Modern Functional Test Automation Through Visual AI |
+| Brendan Connolly | Introduction to nUnit |
 
 
 # Books Read
