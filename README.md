@@ -63,7 +63,7 @@ Experience with (varying levels of competency)
 ## Currently Working On / Working Through
 - https://www.swtestacademy.com/appium-tutorial/ 
 
-### I want to learn more about (TODO) 
+### I want to learn more about (TODO List) 
 - Infrastructure Testing 
 - "QAOPS"
 - API Testing 
