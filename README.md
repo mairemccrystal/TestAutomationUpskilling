@@ -78,3 +78,5 @@ Experience with (varying levels of competency)
 See also twitter for recent projects, interactions, #100DaysOfCode ++ 
 https://twitter.com/mairemccrystal2
 
+Links: 
+https://applitools.com/on-demand-videos/fot-frameworks-north-america-2021/?utm_source=marketo&utm_medium=email&utm_content=virtual-event&utm_term=210930-fot-frameworks-on-demand-library&utm_campaign=210930-fot-frameworks&mkt_tok=Njg3LVRFUi02MTIAAAF_9deHevM5asKJ1iCqLM5pGkRK6C7GWC7nNHEsTSUEM0uF_N4jQlZrpJUEmQ2JPNvXIJ7EnFK36ZqMj1jgcTBiwGtKnYCGb9NEfPw11btg4w
