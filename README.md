@@ -59,9 +59,11 @@ Experience with (varying levels of competency)
 - TruePath
 - SelectorsHub
 - Grammar and Spellchecker
+- Axe Accssibility Checker
 
 ## Currently Working On / Working Through
-- https://www.swtestacademy.com/appium-tutorial/ 
+- https://www.swtestacademy.com/appium-tutorial/
+- Looking into Automation + Security offerings 
 
 ### I want to learn more about (TODO List) 
 - Infrastructure Testing 
