@@ -19,6 +19,7 @@ Experience with (varying levels of competency)
 - Beautiful Soup / Web Scraping 
 - Cross Browser Testing 
 - IE /FireFox / Chrome
+- JMeter
 
 ### Other Related (see other repos for utilisation)
 - Kubernetes (briefly)
