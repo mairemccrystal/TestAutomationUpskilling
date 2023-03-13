@@ -13,6 +13,7 @@ Experience with (varying levels of competency)
 - Selenium Grid for distributed tests
 - Selenium Grid + Docker
 - Azure Devops (ADO) integration 
+- Standing up and writing test pipelines
 - Protractor
 - In browser testing with Javascript (Chrome Dev Tools) 
 - Travis CI (utilised in Cloud Computing Module at QUB) 
@@ -20,6 +21,10 @@ Experience with (varying levels of competency)
 - Cross Browser Testing 
 - IE /FireFox / Chrome
 - JMeter
+- Locust for Performance Testing 
+- Cypress 
+- Framework development 
+
 
 ### Other Related (see other repos for utilisation)
 - Kubernetes (briefly)
@@ -28,7 +33,6 @@ Experience with (varying levels of competency)
 - API manipulation 
 - Contour Detection and algorithmic image manipulation 
 - Python / C# / C++ / Java / Javascript 
-
 
 # Courses Completed
 
@@ -69,7 +73,8 @@ Experience with (varying levels of competency)
 ### I want to learn more about (TODO List) 
 - Infrastructure Testing 
 - "QAOPS"
-- API Testing 
+- API Testing & Beyond
+- Contract Testing 
 - Sauce Labs
 - Browserstack
 - Playwright
@@ -78,8 +83,14 @@ Experience with (varying levels of competency)
 - Robotium 
 - Jest
 
+- Development experience is something I am keen on. From jumping on with bugs to helping the development team deliver. 
+
 See also twitter for recent projects, interactions, #100DaysOfCode ++ 
 https://twitter.com/mairemccrystal2
 
 Links: 
 https://applitools.com/on-demand-videos/fot-frameworks-north-america-2021/?utm_source=marketo&utm_medium=email&utm_content=virtual-event&utm_term=210930-fot-frameworks-on-demand-library&utm_campaign=210930-fot-frameworks&mkt_tok=Njg3LVRFUi02MTIAAAF_9deHevM5asKJ1iCqLM5pGkRK6C7GWC7nNHEsTSUEM0uF_N4jQlZrpJUEmQ2JPNvXIJ7EnFK36ZqMj1jgcTBiwGtKnYCGb9NEfPw11btg4w
+
+Published: 
+https://medium.com/@mairemccrystal/lessons-in-software-testing-from-the-little-prince-c3020e8245b5 As featured in Software Testing Weekly's 128th Issue
+https://medium.com/@mairemccrystal/there-are-a-wide-range-of-extensions-available-for-chrome-and-many-of-these-can-be-used-for-qa-2e8b27b59a8
