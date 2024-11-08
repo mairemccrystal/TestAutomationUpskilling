@@ -56,6 +56,9 @@ Experience with (varying levels of competency)
 - 97 Things Every Programmer Should Know
 - Hello World : How to be Human in the Age of the Machine - Hannah Fry
 
+- Who Moved My Cheese? - Dr Spencer Johnson
+- Learn to Remember, Practical Techniques to Improve Memory - Dominic O'Brien
+- 
 ### Useful Tools and Helpers
 - SpecFlow
 - Data Fakers 
