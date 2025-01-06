@@ -48,16 +48,18 @@ Experience with (varying levels of competency)
 | Brendan Connolly | Introduction to nUnit |
 
 
-# Subject Matter Books Read
+# Subject Matter and Other Relevant Books Read
 
 - Specification by Example: How Successful Teams Deliver the Right Software - Gojko Adzic
 - Instant Cucumber BDD How-to - Wayne Ye 
 - BDD in Action, Behaviour Driven Development for the whole software lifecycle - John Ferguson Smart 
-- 97 Things Every Programmer Should Know
+- 97 Things Every Programmer Should Know - Kevlin Henney
 - Hello World : How to be Human in the Age of the Machine - Hannah Fry
-
 - Who Moved My Cheese? - Dr Spencer Johnson
 - Learn to Remember, Practical Techniques to Improve Memory - Dominic O'Brien
+- Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
+- The Pig That Wants to be Eaten: 100 Experiments for the Armchair Philosopher - Julian Baggini
+- Brotopia: Breaking Up the Boys' Club of Silicon Valley
 - 
 ### Useful Tools and Helpers
 - SpecFlow
