@@ -46,6 +46,7 @@ Experience with (varying levels of competency)
 | Alan Richardson | Automating in the Browser Using Javascript |
 | Raja Rao DV | Modern Functional Test Automation Through Visual AI |
 | Brendan Connolly | Introduction to nUnit |
+| Carlos Kidman | Scaling Tests with Docker |
 
 
 # Subject Matter and Other Relevant Books Read
