@@ -24,7 +24,7 @@ Experience with (varying levels of competency)
 - Locust for Performance Testing 
 - Cypress 
 - Framework development 
-
+- Playwright C#, Javascript and Typescript
 
 ### Other Related (see other repos for utilisation)
 - Kubernetes (briefly)
